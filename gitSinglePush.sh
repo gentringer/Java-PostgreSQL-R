@@ -9,5 +9,3 @@ git add -u && \
 git commit -m "$desc" && \
 git push origin master
 git clean -d -f
-
-done
